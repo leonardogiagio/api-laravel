@@ -14,7 +14,7 @@ Essa API trabalha com autenticação de usuários via JWT;
 2.  Acesse o diretório do projeto:
 
 
-`cd nome-do-repositorio`
+`cd api-laravel`
 
 3. Instale as dependências do projeto usando o Composer:
 
