@@ -51,4 +51,8 @@ A API estará disponível em http://localhost:8000.
 **/api/usuarios/{id} (GET):** Obter um usuário específico pelo ID.
 
 ### Documentação da API
-A documentação da API foi gerada utilizando o Swagger e está disponível em http://localhost:8000/api/documentation. Acesse esse URL para ver os detalhes dos endpoints, parâmetros, respostas e outros detalhes da API.
+1. A documentação da API foi gerada utilizando o Swagger e está disponível em http://localhost:8000/api/documentation. Acesse esse URL para ver os detalhes dos endpoints, parâmetros, respostas e outros detalhes da API.
+
+2. Execute os testes unitários para garantir que todas as funcionalidades estão funcionando corretamente:
+
+`php artisan test --filter UserApiTest`
