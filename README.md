@@ -2,9 +2,9 @@
 Essa API trabalha com autenticação de usuários via JWT;
 
 ### Requisitos do Sistema
-PHP >= 7.4
-Composer
-Banco de dados MySQL
+- PHP >= 7.4
+- Composer
+- Banco de dados MySQL
 ### Configuração
 1.  Clone o repositório para sua máquina local:
 
