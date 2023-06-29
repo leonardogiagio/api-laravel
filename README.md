@@ -14,7 +14,7 @@ Essa API trabalha com autenticação de usuários via JWT;
 2.  Acesse o diretório do projeto:
 
 
-`cd api-laravel`
+`cd nome-do-repositorio`
 
 3. Instale as dependências do projeto usando o Composer:
 
@@ -46,9 +46,9 @@ Essa API trabalha com autenticação de usuários via JWT;
 A API estará disponível em http://localhost:8000.
 
 ### Endpoints
-**/api/login (POST):** Autenticar usuário.
-**/api/usuarios (GET):** Obter todos os usuários.
-**/api/usuarios/{id} (GET):** Obter um usuário específico pelo ID.
+- **/api/login (POST):** Autenticar usuário.
+- **/api/usuarios (GET):** Obter todos os usuários.
+- **/api/usuarios/{id} (GET):** Obter um usuário específico pelo ID.
 
 ### Documentação da API
 1. A documentação da API foi gerada utilizando o Swagger e está disponível em http://localhost:8000/api/documentation. Acesse esse URL para ver os detalhes dos endpoints, parâmetros, respostas e outros detalhes da API.
